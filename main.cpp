@@ -1,7 +1,3 @@
-// Nguyễn Hữu Tri
-// 6151071106
-// Chức năng "Tỉ lệ đá đường bắt đầu ở dòng 768 - 803"
-
 #define _CRT_SECURE_NO_WARNINGS
 #include <iostream>
 #include <string>
